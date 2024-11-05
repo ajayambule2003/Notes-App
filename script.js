@@ -53,7 +53,7 @@ function createNote() {
  * Display Notes Logic 
  **************************************************************************/
 
-function displayNotes() {
+function displayNotes() { 
     const notesList = document.getElementById('notes-list');
     notesList.innerHTML = '';
 
