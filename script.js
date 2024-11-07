@@ -46,7 +46,7 @@ function createNote() {
         popupContainer.remove();
         displayNotes();
     } 
-} 
+}
 
 
 /*************************************************************************
