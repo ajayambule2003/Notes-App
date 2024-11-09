@@ -8,7 +8,7 @@ A simple and intuitive notes application that allows users to create, edit, upda
 - **`script.js`**: The JavaScript file that contains the logic for creating, managing, and displaying notes.
 - **`style.css`**: The CSS file responsible for styling the application.
 
-## Features 
+## Features
  
 - Create, edit, and delete notes.
 - Simple user interface for easy navigation.
