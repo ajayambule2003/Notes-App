@@ -46,11 +46,11 @@ function createNote() {
         popupContainer.remove();
         displayNotes();
     } 
-} 
+}  
 
 
 /*************************************************************************
- * Display Notes Logic 
+ * Display Notes Logic
  **************************************************************************/
 
 function displayNotes() { 
