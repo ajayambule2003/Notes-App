@@ -4,7 +4,7 @@
 
 Security is a top priority for us. If you discover a security vulnerability in this project, we encourage you to report it directly to us. Please refrain from publicly disclosing the vulnerability until it has been addressed.
 
-To report a vulnerability, please contact: 
+To report a vulnerability, please contact:  
 
 **Email:** [ajayambule2003@gmail.com](mailto:ajayambule2003@gmail.com)
 
