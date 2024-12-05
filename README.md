@@ -9,7 +9,7 @@ A simple and intuitive notes application that allows users to create, edit, upda
 - **`style.css`**: The CSS file responsible for styling the application.
 
 ## Features 
-
+ 
 - Create, edit, and delete notes.
 - Simple user interface for easy navigation.
 - Uses browser storage for saving notes, ensuring data persistence.
